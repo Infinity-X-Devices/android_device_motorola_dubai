@@ -18,6 +18,7 @@ $(call inherit-product, vendor/infinity/config/common_full_phone.mk)
 TARGET_SUPPORTS_QUICK_TAP = true
 
 # Infinity-X flags
+INFINITY_BUILD_TYPE := OFFICIAL
 INFINITY_MAINTAINER := "Francirijillo"
 TARGET_BUILD_VIMUSIC := true
 USE_MOTO_CALCULATOR := true
