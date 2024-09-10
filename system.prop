@@ -1,3 +1,9 @@
+# Infinity-X AboutPhone
+ro.infinity.soc=Snapdragon 778G+
+ro.infinity.battery=4020mAh
+ro.infinity.display=1080x2400, 144Hz
+ro.infinity.camera=50MP + 50MP + 2MP, 32MP
+
 # Google
 ro.opa.device_model_id=motorola-dubai
 ro.opa.eligible_device=true
